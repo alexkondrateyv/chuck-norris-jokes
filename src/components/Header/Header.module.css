@@ -1,0 +1,28 @@
+.header {
+  height: 60px;
+  width: 100%;
+  background: #422ED4;
+}
+.header .logo {
+  margin: 0 auto;
+  height: 100%;
+  width: 1560px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.header .logo img {
+  margin-left: 40px;
+  height: 43px;
+  width: 43px;
+}
+.header .logo .text {
+  margin-left: 10px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=Header.module.css.map */

@@ -1,0 +1,31 @@
+.header {
+  height: 60px;
+  width: 100%;
+  background: #422ED4;
+
+  .logo {
+    margin: 0 auto;
+    height: 100%;
+    width: 1560px;
+
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+    img {
+      margin-left: 40px;
+      height: 43px;
+      width: 43px;
+    }
+
+    .text {
+      margin-left: 10px;
+
+      font-style: normal;
+      font-weight: 800;
+      font-size: 16px;
+      line-height: 19px;
+      color: #ffffff;
+    }
+  }
+}
